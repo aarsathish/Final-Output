@@ -1,0 +1,358 @@
+2024-01-04 06:32:42,261 - INFO - Distribution of Promotions in Training and Test Sets
+2024-01-04 06:40:19,619 - INFO - Distribution of Promotions in Training and Test Sets
+2024-01-04 06:40:19,619 - INFO - Sales Behavior Before, During, and After Holidays
+2024-01-04 06:40:19,619 - INFO - Seasonal Purchase Behaviors
+2024-01-04 06:40:19,619 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-01-04 06:40:19,619 - INFO - Comparison of Sales with and without Promotions
+2024-01-04 06:40:19,620 - INFO - Comparison of Customers with and without Promotions
+2024-01-04 06:40:19,620 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-01-04 06:40:19,622 - INFO - Average Sales Trends During Store Open Hours
+2024-01-04 06:40:19,623 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-01-04 06:40:19,623 - INFO - Assortment Type Impact on Sales
+2024-01-04 06:40:19,623 - INFO - Competitor Distance Impact on Sales
+2024-01-04 06:40:19,623 - INFO - Impact of New Competitors on Store Sales
+2024-01-04 06:40:19,623 - INFO - Correlation between Competitor Distance and Sales
+2024-01-05 08:34:12,911 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:34:13,312 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:35:12,184 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:35:12,729 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:36:08,312 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:36:08,850 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:39:49,067 - INFO - Distribution of Promotions in Training and Test Sets
+2024-01-05 08:39:49,068 - INFO - Sales Behavior Before, During, and After Holidays
+2024-01-05 08:39:49,068 - INFO - Seasonal Purchase Behaviors
+2024-01-05 08:39:49,068 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-01-05 08:39:49,068 - INFO - Comparison of Sales with and without Promotions
+2024-01-05 08:39:49,068 - INFO - Comparison of Customers with and without Promotions
+2024-01-05 08:39:49,068 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-01-05 08:39:49,069 - INFO - Average Sales Trends During Store Open Hours
+2024-01-05 08:39:49,069 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-01-05 08:39:49,069 - INFO - Assortment Type Impact on Sales
+2024-01-05 08:39:49,069 - INFO - Competitor Distance Impact on Sales
+2024-01-05 08:39:49,070 - INFO - Impact of New Competitors on Store Sales
+2024-01-05 08:39:49,070 - INFO - Correlation between Competitor Distance and Sales
+2024-01-05 08:57:47,814 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:57:48,389 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:59:14,469 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 08:59:15,069 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:04:28,788 - INFO - Distribution of Promotions in Training and Test Sets
+2024-01-05 09:04:28,788 - INFO - Sales Behavior Before, During, and After Holidays
+2024-01-05 09:04:28,788 - INFO - Seasonal Purchase Behaviors
+2024-01-05 09:04:28,788 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-01-05 09:04:28,788 - INFO - Comparison of Sales with and without Promotions
+2024-01-05 09:04:28,789 - INFO - Comparison of Customers with and without Promotions
+2024-01-05 09:04:28,789 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-01-05 09:04:28,789 - INFO - Average Sales Trends During Store Open Hours
+2024-01-05 09:04:28,789 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-01-05 09:04:28,789 - INFO - Assortment Type Impact on Sales
+2024-01-05 09:04:28,790 - INFO - Competitor Distance Impact on Sales
+2024-01-05 09:04:28,790 - INFO - Impact of New Competitors on Store Sales
+2024-01-05 09:04:28,790 - INFO - Correlation between Competitor Distance and Sales
+2024-01-05 09:16:34,341 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:16:34,808 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:17:43,795 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:17:44,812 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:22:41,075 - INFO - Distribution of Promotions in Training and Test Sets
+2024-01-05 09:22:41,075 - INFO - Sales Behavior Before, During, and After Holidays
+2024-01-05 09:22:41,075 - INFO - Seasonal Purchase Behaviors
+2024-01-05 09:22:41,077 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-01-05 09:22:41,077 - INFO - Comparison of Sales with and without Promotions
+2024-01-05 09:22:41,077 - INFO - Comparison of Customers with and without Promotions
+2024-01-05 09:22:41,078 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-01-05 09:22:41,078 - INFO - Average Sales Trends During Store Open Hours
+2024-01-05 09:22:41,078 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-01-05 09:22:41,079 - INFO - Assortment Type Impact on Sales
+2024-01-05 09:22:41,079 - INFO - Competitor Distance Impact on Sales
+2024-01-05 09:22:41,079 - INFO - Impact of New Competitors on Store Sales
+2024-01-05 09:22:41,079 - INFO - Correlation between Competitor Distance and Sales
+2024-01-05 09:23:58,571 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:23:59,055 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:25:47,941 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:25:48,449 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-01-05 09:29:04,716 - INFO - Distribution of Promotions in Training and Test Sets
+2024-01-05 09:29:04,717 - INFO - Sales Behavior Before, During, and After Holidays
+2024-01-05 09:29:04,717 - INFO - Seasonal Purchase Behaviors
+2024-01-05 09:29:04,717 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-01-05 09:29:04,717 - INFO - Comparison of Sales with and without Promotions
+2024-01-05 09:29:04,717 - INFO - Comparison of Customers with and without Promotions
+2024-01-05 09:29:04,717 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-01-05 09:29:04,718 - INFO - Average Sales Trends During Store Open Hours
+2024-01-05 09:29:04,718 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-01-05 09:29:04,718 - INFO - Assortment Type Impact on Sales
+2024-01-05 09:29:04,719 - INFO - Competitor Distance Impact on Sales
+2024-01-05 09:29:04,719 - INFO - Impact of New Competitors on Store Sales
+2024-01-05 09:29:04,719 - INFO - Correlation between Competitor Distance and Sales
+2024-01-05 15:43:23,321 - INFO - Distribution of Promotions in Training and Test Sets
+2024-01-05 15:43:23,326 - INFO - Sales Behavior Before, During, and After Holidays
+2024-01-05 15:43:23,326 - INFO - Seasonal Purchase Behaviors
+2024-01-05 15:43:23,327 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-01-05 15:43:23,327 - INFO - Comparison of Sales with and without Promotions
+2024-01-05 15:43:23,327 - INFO - Comparison of Customers with and without Promotions
+2024-01-05 15:43:23,327 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-01-05 15:43:23,327 - INFO - Average Sales Trends During Store Open Hours
+2024-01-05 15:43:23,327 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-01-05 15:43:23,327 - INFO - Assortment Type Impact on Sales
+2024-01-05 15:43:23,327 - INFO - Competitor Distance Impact on Sales
+2024-01-05 15:43:23,327 - INFO - Impact of New Competitors on Store Sales
+2024-02-02 06:59:57,900 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-02 06:59:57,905 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-02 06:59:57,905 - INFO - Seasonal Purchase Behaviors
+2024-02-02 06:59:57,905 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-02 06:59:57,905 - INFO - Comparison of Sales with and without Promotions
+2024-02-02 06:59:57,905 - INFO - Comparison of Customers with and without Promotions
+2024-02-02 06:59:57,905 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-02 06:59:57,905 - INFO - Average Sales Trends During Store Open Hours
+2024-02-02 06:59:57,905 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-02 06:59:57,905 - INFO - Assortment Type Impact on Sales
+2024-02-02 06:59:57,906 - INFO - Competitor Distance Impact on Sales
+2024-02-02 06:59:57,906 - INFO - Impact of New Competitors on Store Sales
+2024-02-02 08:05:08,467 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-02 08:17:48,028 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-02 08:17:48,029 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-02 08:17:48,029 - INFO - Seasonal Purchase Behaviors
+2024-02-02 08:17:48,029 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-02 08:17:48,029 - INFO - Comparison of Sales with and without Promotions
+2024-02-02 08:17:48,029 - INFO - Comparison of Customers with and without Promotions
+2024-02-02 08:17:48,030 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-02 08:17:48,030 - INFO - Average Sales Trends During Store Open Hours
+2024-02-02 08:17:48,030 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-02 08:17:48,030 - INFO - Assortment Type Impact on Sales
+2024-02-02 08:17:48,030 - INFO - Competitor Distance Impact on Sales
+2024-02-02 08:17:48,031 - INFO - Impact of New Competitors on Store Sales
+2024-02-02 08:21:45,821 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-02 08:21:46,320 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-02-02 08:21:46,703 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-02 08:34:45,284 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-03 08:24:31,825 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-03 08:24:31,825 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-03 08:24:31,825 - INFO - Seasonal Purchase Behaviors
+2024-02-03 08:24:31,825 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-03 08:24:31,825 - INFO - Comparison of Sales with and without Promotions
+2024-02-03 08:24:31,827 - INFO - Comparison of Customers with and without Promotions
+2024-02-03 08:24:31,827 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-03 08:24:31,827 - INFO - Average Sales Trends During Store Open Hours
+2024-02-03 08:24:31,827 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-03 08:24:31,828 - INFO - Assortment Type Impact on Sales
+2024-02-03 08:24:31,828 - INFO - Competitor Distance Impact on Sales
+2024-02-03 08:24:31,828 - INFO - Impact of New Competitors on Store Sales
+2024-02-03 08:38:35,634 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-03 08:38:36,964 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-02-03 08:38:38,165 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-03 08:38:40,243 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-05 11:54:40,274 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-05 11:54:40,274 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-05 11:54:40,274 - INFO - Seasonal Purchase Behaviors
+2024-02-05 11:54:40,275 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-05 11:54:40,275 - INFO - Comparison of Sales with and without Promotions
+2024-02-05 11:54:40,275 - INFO - Comparison of Customers with and without Promotions
+2024-02-05 11:54:40,275 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-05 11:54:40,275 - INFO - Average Sales Trends During Store Open Hours
+2024-02-05 11:54:40,277 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-05 11:54:40,277 - INFO - Assortment Type Impact on Sales
+2024-02-05 11:54:40,277 - INFO - Competitor Distance Impact on Sales
+2024-02-05 11:54:40,278 - INFO - Impact of New Competitors on Store Sales
+2024-02-05 15:01:15,170 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-05 15:01:15,174 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-05 15:01:15,174 - INFO - Seasonal Purchase Behaviors
+2024-02-05 15:01:15,174 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-05 15:01:15,175 - INFO - Comparison of Sales with and without Promotions
+2024-02-05 15:01:15,175 - INFO - Comparison of Customers with and without Promotions
+2024-02-05 15:01:15,175 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-05 15:01:15,176 - INFO - Average Sales Trends During Store Open Hours
+2024-02-05 15:01:15,176 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-05 15:01:15,176 - INFO - Assortment Type Impact on Sales
+2024-02-05 15:01:15,176 - INFO - Competitor Distance Impact on Sales
+2024-02-05 15:01:15,176 - INFO - Impact of New Competitors on Store Sales
+2024-02-05 15:21:53,112 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-05 15:21:53,113 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-05 15:21:53,113 - INFO - Seasonal Purchase Behaviors
+2024-02-05 15:21:53,113 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-05 15:21:53,113 - INFO - Comparison of Sales with and without Promotions
+2024-02-05 15:21:53,113 - INFO - Comparison of Customers with and without Promotions
+2024-02-05 15:21:53,113 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-05 15:21:53,113 - INFO - Average Sales Trends During Store Open Hours
+2024-02-05 15:21:53,113 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-05 15:21:53,114 - INFO - Assortment Type Impact on Sales
+2024-02-05 15:21:53,114 - INFO - Competitor Distance Impact on Sales
+2024-02-05 15:21:53,114 - INFO - Impact of New Competitors on Store Sales
+2024-02-05 17:48:39,536 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-05 17:48:39,536 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-05 17:48:39,536 - INFO - Seasonal Purchase Behaviors
+2024-02-05 17:48:39,537 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-05 17:48:39,537 - INFO - Comparison of Sales with and without Promotions
+2024-02-05 17:48:39,537 - INFO - Comparison of Customers with and without Promotions
+2024-02-05 17:48:39,537 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-05 17:48:39,538 - INFO - Average Sales Trends During Store Open Hours
+2024-02-05 17:48:39,538 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-05 17:48:39,538 - INFO - Assortment Type Impact on Sales
+2024-02-05 17:48:39,539 - INFO - Competitor Distance Impact on Sales
+2024-02-05 17:48:39,539 - INFO - Impact of New Competitors on Store Sales
+2024-02-05 18:58:37,627 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-05 18:58:40,732 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-02-05 18:59:12,292 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-05 18:59:12,851 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-05 20:48:29,098 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-05 20:48:29,099 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-05 20:48:29,099 - INFO - Seasonal Purchase Behaviors
+2024-02-05 20:48:29,099 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-05 20:48:29,099 - INFO - Comparison of Sales with and without Promotions
+2024-02-05 20:48:29,099 - INFO - Comparison of Customers with and without Promotions
+2024-02-05 20:48:29,099 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-05 20:48:29,100 - INFO - Average Sales Trends During Store Open Hours
+2024-02-05 20:48:29,100 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-05 20:48:29,100 - INFO - Assortment Type Impact on Sales
+2024-02-05 20:48:29,100 - INFO - Competitor Distance Impact on Sales
+2024-02-05 20:48:29,100 - INFO - Impact of New Competitors on Store Sales
+2024-02-05 20:52:09,006 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-05 20:52:09,753 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-02-05 20:52:09,911 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-05 20:52:10,218 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-05 21:10:48,435 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-05 21:10:48,435 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-05 21:10:48,435 - INFO - Seasonal Purchase Behaviors
+2024-02-05 21:10:48,435 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-05 21:10:48,435 - INFO - Comparison of Sales with and without Promotions
+2024-02-05 21:10:48,435 - INFO - Comparison of Customers with and without Promotions
+2024-02-05 21:10:48,435 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-05 21:10:48,436 - INFO - Average Sales Trends During Store Open Hours
+2024-02-05 21:10:48,436 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-05 21:10:48,436 - INFO - Assortment Type Impact on Sales
+2024-02-05 21:10:48,436 - INFO - Competitor Distance Impact on Sales
+2024-02-05 21:10:48,436 - INFO - Impact of New Competitors on Store Sales
+2024-02-05 21:14:34,493 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-05 21:14:35,446 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\layers\rnn\lstm.py:148: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-02-05 21:14:36,096 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-05 21:14:36,918 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-05 22:12:49,071 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp61qlop5f\model\data\model\assets
+2024-02-05 22:18:11,363 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmpxwx5m4ck\model\data\model\assets
+2024-02-06 00:15:43,602 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmptyv7wco2\model\data\model\assets
+2024-02-06 00:24:19,306 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmpnsp046cd\model\data\model\assets
+2024-02-06 00:51:34,153 - INFO - Assets written to: ./saved_model\assets
+2024-02-06 00:53:50,847 - INFO - Assets written to: ./saved_model\assets
+2024-02-06 00:55:07,131 - INFO - Assets written to: ./saved_model\assets
+2024-02-06 01:04:08,939 - INFO - Assets written to: ./saved_model\assets
+2024-02-06 01:05:18,849 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+2024-02-06 01:05:19,005 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\saving\legacy\saved_model\load.py:118: The name tf.logging.warning is deprecated. Please use tf.compat.v1.logging.warning instead.
+
+2024-02-06 01:05:19,005 - WARNING - SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+2024-02-06 01:07:12,757 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:08:34,430 - WARNING - SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+2024-02-06 01:09:09,820 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:09:12,733 - WARNING - SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+2024-02-06 01:12:03,328 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:13:59,403 - INFO - Assets written to: ./saved_model\assets
+2024-02-06 01:14:15,410 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:14:19,031 - WARNING - SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+2024-02-06 01:16:09,998 - INFO - Assets written to: ./keras_model\assets
+2024-02-06 01:16:24,886 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:16:32,471 - WARNING - SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+2024-02-06 01:17:41,121 - INFO - Assets written to: ./keras_model\assets
+2024-02-06 01:17:59,479 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:24:13,222 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:25:44,283 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:25:56,985 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp7eihbsi7\model\data\model\assets
+2024-02-06 01:27:10,472 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:27:23,295 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmpekvx9b0a\model\data\model\assets
+2024-02-06 01:32:09,752 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:32:22,675 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmph3q94vmz\model\data\model\assets
+2024-02-06 01:37:45,502 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:37:58,296 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp385rx0z9\model\data\model\assets
+2024-02-06 01:40:17,951 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:40:30,914 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp_kg1abtn\model\data\model\assets
+2024-02-06 01:48:01,888 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:48:14,796 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmpll8kuaqn\model\data\model\assets
+2024-02-06 01:51:23,596 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:51:36,346 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp742pz3t_\model\data\model\assets
+2024-02-06 01:53:40,100 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:53:52,594 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp9kicf2id\model\data\model\assets
+2024-02-06 01:57:31,331 - INFO - Assets written to: keras_model\assets
+2024-02-06 01:57:44,854 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp6x6a8v4v\model\data\model\assets
+2024-02-06 02:10:35,294 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp7h0i6819\model\data\model\assets
+2024-02-06 02:46:02,689 - INFO - Assets written to: ./saved_model\assets
+2024-02-06 02:47:02,643 - WARNING - SavedModel saved prior to TF 2.5 detected when loading Keras model. Please ensure that you are saving the model with model.save() or tf.keras.models.save_model(), *NOT* tf.saved_model.save(). To confirm, there should be a file named "keras_metadata.pb" in the SavedModel directory.
+2024-02-06 03:16:41,482 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmpuseykjr_\model\data\model\assets
+2024-02-06 03:47:57,671 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-06 03:47:57,671 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-06 03:47:57,671 - INFO - Seasonal Purchase Behaviors
+2024-02-06 03:47:57,671 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-06 03:47:57,671 - INFO - Comparison of Sales with and without Promotions
+2024-02-06 03:47:57,671 - INFO - Comparison of Customers with and without Promotions
+2024-02-06 03:47:57,671 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-06 03:47:57,673 - INFO - Average Sales Trends During Store Open Hours
+2024-02-06 03:47:57,673 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-06 03:47:57,673 - INFO - Assortment Type Impact on Sales
+2024-02-06 03:47:57,673 - INFO - Competitor Distance Impact on Sales
+2024-02-06 03:47:57,674 - INFO - Impact of New Competitors on Store Sales
+2024-02-06 03:52:45,075 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-06 03:52:46,828 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\layers\rnn\lstm.py:148: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-02-06 03:52:48,135 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-06 03:52:49,928 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-06 05:40:57,601 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmphateuv0r\model\data\model\assets
+2024-02-06 09:29:27,414 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-06 09:29:27,418 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-06 09:29:27,418 - INFO - Seasonal Purchase Behaviors
+2024-02-06 09:29:27,418 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-06 09:29:27,418 - INFO - Comparison of Sales with and without Promotions
+2024-02-06 09:29:27,419 - INFO - Comparison of Customers with and without Promotions
+2024-02-06 09:29:27,419 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-06 09:29:27,419 - INFO - Average Sales Trends During Store Open Hours
+2024-02-06 09:29:27,419 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-06 09:29:27,419 - INFO - Assortment Type Impact on Sales
+2024-02-06 09:29:27,419 - INFO - Competitor Distance Impact on Sales
+2024-02-06 09:29:27,419 - INFO - Impact of New Competitors on Store Sales
+2024-02-06 09:32:42,568 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-06 09:32:43,806 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\layers\rnn\lstm.py:148: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-02-06 09:32:44,571 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-06 09:32:45,583 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-06 12:38:01,057 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmp1pauou1m\model\data\model\assets
+2024-02-06 13:14:03,701 - INFO - Assets written to: C:\Users\admin\AppData\Local\Temp\tmpget_7yrh\model\data\model\assets
+2024-02-06 18:29:09,816 - INFO - Distribution of Promotions in Training and Test Sets
+2024-02-06 18:29:09,820 - INFO - Sales Behavior Before, During, and After Holidays
+2024-02-06 18:29:09,821 - INFO - Seasonal Purchase Behaviors
+2024-02-06 18:29:09,821 - INFO - Scatter Plot of Sales vs. Number of Customers
+2024-02-06 18:29:09,821 - INFO - Comparison of Sales with and without Promotions
+2024-02-06 18:29:09,822 - INFO - Comparison of Customers with and without Promotions
+2024-02-06 18:29:09,822 - INFO - Sales Performance for Different Stores During Promotional Periods
+2024-02-06 18:29:09,822 - INFO - Average Sales Trends During Store Open Hours
+2024-02-06 18:29:09,822 - INFO - Weekend Sales for Stores Open on All Weekdays
+2024-02-06 18:29:09,822 - INFO - Assortment Type Impact on Sales
+2024-02-06 18:29:09,823 - INFO - Competitor Distance Impact on Sales
+2024-02-06 18:29:09,823 - INFO - Impact of New Competitors on Store Sales
+2024-02-06 18:33:59,424 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-02-06 18:34:01,794 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\layers\rnn\lstm.py:148: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-02-06 18:34:03,382 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-06 18:34:05,361 - WARNING - From C:\Users\admin\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
